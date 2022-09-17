@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://annabramarova.github.io/x10-project-htmlcss",
+  "homepage": "https://annabramarova.github.io/team_project-1",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /x10-project-htmlcss/"
+    "build": "parcel build src/*.html --public-url /team_project-1/"
   },
   "repository": {
     "type": "git",
