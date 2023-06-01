@@ -33,8 +33,7 @@
       event.currentTarget.classList.toggle('is-dropdown');
     }
   }
-  // Повесим класс page-nav__link--current на элементы с классом page-nav__link,
-  // Если они указывают на текущую страницу.
+
   const current_page = window.location.pathname;
   document.querySelectorAll('.page-nav__link').forEach(e => {
     if (e.getAttribute('href') == current_page)
